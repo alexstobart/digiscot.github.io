@@ -29,15 +29,19 @@ STRiVE in East Lothian to register and create personal data stores (PDS) for ini
 
 ### Phase 1
 
-TBC
+SCVO complete upgrade to MILO replacement = Salesforce.com
+Complete June 2015
 
 ### Phase 2
 
-TBC
+STRiVE comment work to make Connection from Salesforce.com to Mydex platform
+Start July 2015
 
 ### Phase 3
 
-TBC
+Test Connection
+Prepare customer journeys 
+Proposed start September - October 2015
 
 
 
@@ -47,22 +51,8 @@ This is where the project lead will share information about what was achieved an
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
 
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
 ### Lessons learned
 
-Things that worked well:
-
-1. Text
-2. Text
-3. Text
-
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
+It takes time to get started and for all parties to meet one another, especially when we are different locations.
